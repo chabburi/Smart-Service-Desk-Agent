@@ -58,7 +58,7 @@ smart-service-agent/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/smart-service-agent.git
+git clone https://github.com/chabburi/smart-service-desk-agent.git
 
 # 2. Navigate into the project directory
 cd smart-service-agent
